@@ -1,5 +1,11 @@
 @import-normalize; /* bring in normalize.css styles */
 
+:root {
+  --main-bg-color: #4B7D76;
+  --main-color: #40646E;
+  --hover-color: #FF8049;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -12,4 +18,11 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+
+a {
+  color: currentColor;
+    text-decoration: none;
 }

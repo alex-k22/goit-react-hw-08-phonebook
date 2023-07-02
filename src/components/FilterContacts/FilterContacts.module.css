@@ -1,0 +1,10 @@
+.input {
+    height: 30px;
+    font-size: 16px;
+    border: 1px var(--main-color) solid;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    outline-color: var(--hover-color);
+}

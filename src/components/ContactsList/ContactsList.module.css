@@ -1,0 +1,25 @@
+.item {
+    width: 400px;;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 1px var(--main-color) solid;
+    border-radius: 5px;
+}
+.delBtn {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    cursor: pointer;
+}
+p {
+    margin: 3px;
+    }
+.list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+}
